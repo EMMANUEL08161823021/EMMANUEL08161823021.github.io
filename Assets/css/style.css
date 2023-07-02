@@ -112,7 +112,8 @@ section span {
 }
 .shadow-effect:hover {
     /* margin-top: 0.2em; */
-    box-shadow: -6px 6px 0 0 #e0f780;
+    /* box-shadow: -6px 6px 0 0 #e0f780; */
+    box-shadow: 0 6px 4px 2px #e0f780;
 }
 
 #contact .form-control {
