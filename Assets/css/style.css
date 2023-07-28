@@ -35,7 +35,88 @@ img {
 .navbar .nav-link.active{
     color: #e0f780;
 }
+.skill {
+    display: flex;
+    /* border: 2px solid black; */
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.skill h3 {
+    padding-top: 8px;
+}
 
+.skill-rate{
+    min-height: 10px;
+    border-radius: 20px;
+    overflow: hidden;
+    width: auto;
+    border: 1px solid black;
+
+    .rateOne {
+        min-height: 10px;
+        width: auto;
+        background-color: rgb(241, 86, 86);
+
+    }
+    .rateTwo {
+        min-height: 10px;
+        width: auto;
+        background-color: greenyellow;
+
+    }
+    .rateThree {
+        min-height: 10px;
+        width: auto;
+        background-color: green;
+
+    }
+    .rateFour {
+        min-height: 10px;
+        width: 90%;
+        background-color: yellow;
+
+    }
+    .rateFive {
+        min-height: 10px;
+        width: 75%;
+        background-color: blue;
+
+    }
+    .rateSix {
+        min-height: 10px;
+        width: 50%;
+        background-color: gray;
+
+    }
+}
+/* .scroll {
+    overflow: scroll;
+    height: 600px;
+    gap: 20px;
+    margin: 0 auto;
+}
+.card-group {
+    gap: 20px;
+    /* margin: 0 auto; */
+
+/* } */
+/* .scroll::-webkit-scrollbar {
+    display: none;
+} */
+
+
+/* .cardt {
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    width: 300px;
+    margin: 0 auto;
+    height: 550px;
+    background-color: #033f47e5;
+    /* border: 1px solid black; */
+
+/* }   */
 @media(min-width: 992px) {
     .navbar {
         min-height: 100vh;
@@ -111,8 +192,6 @@ section span {
     transition: all 0.2s ease-in-out;
 }
 .shadow-effect:hover {
-    /* margin-top: 0.2em; */
-    /* box-shadow: -6px 6px 0 0 #e0f780; */
     box-shadow: 0 6px 4px 2px #e0f780;
 }
 
