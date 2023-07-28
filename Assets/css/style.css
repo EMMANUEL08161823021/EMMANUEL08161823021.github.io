@@ -52,43 +52,43 @@ img {
     overflow: hidden;
     width: auto;
     border: 1px solid black;
+    
+}
+.rateOne {
+    min-height: 10px;
+    width: auto;
+    background-color: rgb(241, 86, 86);
 
-    .rateOne {
-        min-height: 10px;
-        width: auto;
-        background-color: rgb(241, 86, 86);
+}
+.rateTwo {
+    min-height: 10px;
+    width: auto;
+    background-color: greenyellow;
 
-    }
-    .rateTwo {
-        min-height: 10px;
-        width: auto;
-        background-color: greenyellow;
+}
+.rateThree {
+    min-height: 10px;
+    width: auto;
+    background-color: green;
 
-    }
-    .rateThree {
-        min-height: 10px;
-        width: auto;
-        background-color: green;
+}
+.rateFour {
+    min-height: 10px;
+    width: 90%;
+    background-color: yellow;
 
-    }
-    .rateFour {
-        min-height: 10px;
-        width: 90%;
-        background-color: yellow;
+}
+.rateFive {
+    min-height: 10px;
+    width: 75%;
+    background-color: blue;
 
-    }
-    .rateFive {
-        min-height: 10px;
-        width: 75%;
-        background-color: blue;
+}
+.rateSix {
+    min-height: 10px;
+    width: 50%;
+    background-color: gray;
 
-    }
-    .rateSix {
-        min-height: 10px;
-        width: 50%;
-        background-color: gray;
-
-    }
 }
 /* .scroll {
     overflow: scroll;
