@@ -90,6 +90,13 @@ img {
     background-color: gray;
 
 }
+.card-content a  {
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 12px;
+
+}
 /* .scroll {
     overflow: scroll;
     height: 600px;
