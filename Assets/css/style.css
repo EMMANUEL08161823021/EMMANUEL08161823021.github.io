@@ -70,62 +70,6 @@ img {
     padding: 10px 12px;
 
 }
-
-
-
-@media(min-width: 992px) {
-    .navbar {
-        min-height: 100vh;
-        width: 240px;
-        background: linear-gradient(#067f8f, #033f47e5 );
-        opacity: 0.95;
-        background-size: cover;
-        background-position: center;
-    }
-    .content-wrapper {
-        padding-left: 240px;
-    }
-    a.nav-link {
-        position: relative;
-    }
-    a.nav-link::after {
-        content: '';
-        position: absolute;
-        left: 9px;    
-        right: 0px;
-        top: 30px;
-        width: 0%;
-        height: 2px;
-        background: #e0f780;
-        transition: 0.2s;
-    }
-    a.nav-link:hover::after {
-        width: 80%;
-    }
-    #contact form input {
-        width: 80%;
-        
-    }
-}
-@media(max-width: 992px) {
-    .search {
-        display: none;
-    }
-    .btn.btn-outline-success {
-        display: none;
-    }
-    #contact form{
-        margin: 0 1em;
-    }
-    #about #aboutDiv {
-        margin: 0 1em;
-    }
-    #articles .container {
-        margin: 0 auto;     
-    }
-
-}
-
 section.full-height {
     min-height: 100vh;
     height: 100%;
@@ -190,6 +134,61 @@ section span {
     text-decoration: none;
     list-style: none;
 }
+
+
+@media(min-width: 992px) {
+    .navbar {
+        min-height: 100vh;
+        width: 240px;
+        background: linear-gradient(#067f8f, #033f47e5 );
+        opacity: 0.95;
+        background-size: cover;
+        background-position: center;
+    }
+    .content-wrapper {
+        padding-left: 240px;
+    }
+    a.nav-link {
+        position: relative;
+    }
+    a.nav-link::after {
+        content: '';
+        position: absolute;
+        left: 9px;    
+        right: 0px;
+        top: 30px;
+        width: 0%;
+        height: 2px;
+        background: #e0f780;
+        transition: 0.2s;
+    }
+    a.nav-link:hover::after {
+        width: 80%;
+    }
+    #contact form input {
+        width: 80%;
+        
+    }
+}
+@media(max-width: 992px) {
+    .search {
+        display: none;
+    }
+    .btn.btn-outline-success {
+        display: none;
+    }
+    #contact form{
+        margin: 0 1em;
+    }
+    #about #aboutDiv {
+        margin: 0 1em;
+    }
+    #articles .container {
+        margin: 0 auto;     
+    }
+
+}
+
 @media(max-width: 610px){
     .footer {
         height: auto;
