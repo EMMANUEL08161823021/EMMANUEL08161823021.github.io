@@ -19,7 +19,11 @@ With a Chemical Engineering degree from the University of Lagos, I bring analyti
 Recent Projects
 
 🔹 LYNKK – A cryptocurrency website delivering real-time transactions and informative articles, built with Next.js, TailwindCSS, and MongoDB.
+
 🔹 ENERGYM – A fitness app offering workout plans, class scheduling, and progress tracking, created using React and SCSS.
+
 🔹 Phone Shopping Cart – A cleanly coded shopping platform for advertising gadgets, made with pure JavaScript.
+
 🔹 Bliss Realty – A real estate platform connecting users with their dream properties effortlessly.
+
 🔹 Vault – A decentralized protocol for secure wallet syncing, built with React, SCSS, and Framer Motion.
