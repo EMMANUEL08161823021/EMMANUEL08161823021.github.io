@@ -1,6 +1,6 @@
 *Welcome to the Portfolio of Emmanuel Oguntolu*
 
-Hi, I’m Emmanuel Oguntolu, a Front-end Developer based in Lagos, Nigeria. I specialize in crafting visually captivating and highly functional user interfaces that ensure smooth performance across all devices and browsers. From interactive web animations to intuitive designs, I transform ideas into engaging digital experiences.
+Hi, I’m Emmanuel Oguntolu. I'm a Full-Stack Engineer based in Lagos, Nigeria. Skilled in building interactive, high-performing web applications with seamless user experiences, responsive design, and engaging animations across platforms.
 
 Services I Provide
 1. Website Wireframe Design: 
